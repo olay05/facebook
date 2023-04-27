@@ -1,0 +1,226 @@
+/* .face {
+    padding-top: 10rem;
+    padding-left: 8rem;
+} */
+
+.parent {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 5rem;
+    justify-content: center;
+    height: 100vh;
+}
+
+.we {
+    background-color: white;
+    box-shadow: 15rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+h1 {
+    color: #1878f3;
+}
+ #pop {
+    text-align: center;
+   
+ }
+
+
+button {
+    background-color: #43b82b;
+    width: 15rem;
+    padding: 1rem 1rem;
+    outline: none;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-top: 2rem;
+    margin-top: 2rem;
+    color: white;
+}
+
+#log {
+    background-color: #1878f3;
+    width: 25rem;
+    padding: 1rem 1rem;
+    outline: none;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+#email {
+    padding: 1rem 1rem;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 20rem;
+}
+
+#pass {
+    padding: 1rem 1rem;
+    border-radius: 10px;
+    width: 20rem;
+}
+
+#for {
+  text-decoration: none;
+ 
+}
+
+/* Below is the styling for SIGNUP link */
+
+
+body {
+    background-color: #f0f2f5;
+    /* text-align: center; */
+}
+
+.second-we{
+    margin-left: 50%;
+    background-color: white;
+    align-items: center; 
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 1rem;
+    width: 400px;
+    border: 1px solid rgb(68, 0, 255);
+    /* border: 1px solid black; */
+}
+
+.sign {
+    background-color: #43b82b;
+    width: 7rem;
+    padding: 1rem 1rem;
+    outline: none;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    color: white;
+}
+
+
+#first {
+    width: 30%;
+    border:  1px solid #1878f3;
+    border-radius: 5px ;
+    background-color: rgb(212, 207, 207);
+    gap: 3rem;
+    margin-bottom: 10px ;
+    margin-top: 10px;
+    padding: 7px 7px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0,2);
+    
+}
+
+#mail {
+    width: 20rem;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid rgb(13, 0, 255);
+    outline: none;
+    padding: 3px 3px;
+    margin-bottom:4px ;
+    box-shadow: 0 2px 4px rgba(0,0,0,0,2);
+    background-color: rgb(212, 207, 207);
+}
+/* #day{
+    padding: 10px 10px;
+    border-radius: 5px;
+    gap: 1rem;
+    border: 1px solid rgb(8, 0, 255);
+} */
+
+
+
+ #form {
+    padding-top: 0rem;
+    padding-bottom: 1rem;
+    margin-top: 0rem;
+    /* height: 40%; */
+    
+    
+} 
+   
+
+.gend{
+    display: flex;
+    gap: 1%;
+    margin-top: 2px;
+}
+#gen{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: white;
+    outline: none;
+    box-shadow: 0 2px 4px rgba(0,0,0,0,2);
+    cursor: pointer;
+    border: 1px solid rgb(25, 0, 255);
+    border-radius: 5px ;
+    gap: 2%;
+}
+
+
+.second-we {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+    margin-top: 10rem;
+}
+
+/* .second-we >h1 {
+    padding-left:0rem ;
+    margin-bottom: 2rem;
+} */
+
+.hom {
+    background-color: #1878f3;
+    width: 10rem;
+    padding: 1rem 1rem;
+    outline: none;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+/* .leave {
+    display: flex;
+    padding-left: 5rem;
+} */
+
+.wo {
+    background-color: white;
+    box-shadow: 15rem;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    border: 1px solid rgb(25, 0, 255);
+}
+
+
+.parental {
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+    gap: 5rem;
+    justify-content: center;
+}
+
+p {
+    font-size: small;
+}
